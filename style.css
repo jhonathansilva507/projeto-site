@@ -7,8 +7,28 @@ body{
 }
 main{
     background-color: white;
-    width: 500px;
+    width: 580px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.521);
+}
+h1{
+    color: #37006B;
+    font-size: 2em;
+}
+h2{
+    color: #37006B;
+    font-size: 1.5em;
+}
+a{
+    color: #37006B;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #1a1aff;
+}
+.cursos{
+    float: right;
 }
